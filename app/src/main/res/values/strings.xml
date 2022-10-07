@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="start_typing"><font size="15">Start Typing</font></string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+</resources>
